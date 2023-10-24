@@ -1,0 +1,35 @@
+{
+    "higherBeings": [
+      {
+        "name": "El corazón de la pesadilla",
+        "description": "Motivo de la compañia de Grimm",
+        "image": "img/Nightmares-Heart.png"
+      },
+      {
+        "name": "Unn",
+        "description": "El ser que soñó la vegetacion",
+        "image": "img/Unn.png"
+      },
+      {
+        "name": "Dioses de la lluvia y la tormenta",
+        "description": "Los dioses antiguos",
+        "image": "img/Gods-of-Thunder-and-Rain.png"
+      },
+      {
+        "name": "El rey pálido",
+        "description": "El monarca de Hollownest",
+        "image": "img/Pale-King.png"
+      },
+      {
+        "name": "La dama blanca",
+        "description": "La reina y madre",
+        "image": "img/White-Lady.png"
+      },
+      {
+        "name": "El destello",
+        "description": "La luz de los sueños",
+        "image": "img/Radiance.png"
+      }
+    ]
+}
+  
